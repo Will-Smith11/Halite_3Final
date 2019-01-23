@@ -10,9 +10,6 @@ import random
 import time
 
 
-'''
-    score = (haliteMined - haliteBurned) / (turnsToMoveToTile + turnsToMoveHome + turnsStayedOnTile).
-'''
 
 
 game = hlt.Game()  
